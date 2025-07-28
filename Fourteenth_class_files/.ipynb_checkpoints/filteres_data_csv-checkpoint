@@ -1,0 +1,55 @@
+,Age,Gender,Education Level,Job Title,Years of Experience,Salary
+2,45.0,Male,PhD,Senior Manager,15.0,150000.0
+4,52.0,Male,Master's,Director,20.0,200000.0
+9,38.0,Male,PhD,Senior Scientist,10.0,110000.0
+17,39.0,Male,PhD,Senior Engineer,12.0,115000.0
+28,43.0,Female,PhD,Senior Consultant,15.0,140000.0
+30,50.0,Male,Bachelor's,CEO,25.0,250000.0
+34,46.0,Male,PhD,Senior Manager,20.0,170000.0
+48,38.0,Male,PhD,Senior Scientist,11.0,120000.0
+53,47.0,Male,Master's,VP of Finance,19.0,200000.0
+57,43.0,Male,PhD,Senior Engineer,17.0,140000.0
+63,47.0,Male,PhD,Senior Data Scientist,21.0,180000.0
+72,45.0,Male,PhD,Research Director,16.0,190000.0
+83,52.0,Male,PhD,Chief Technology Officer,24.0,250000.0
+90,36.0,Male,PhD,Principal Scientist,11.0,120000.0
+96,47.0,Male,PhD,Research Scientist,22.0,160000.0
+105,44.0,Male,PhD,Chief Data Officer,16.0,220000.0
+117,48.0,Male,PhD,Principal Engineer,20.0,170000.0
+124,44.0,Female,PhD,Senior Scientist,16.0,140000.0
+133,47.0,Male,PhD,Senior Research Scientist,22.0,160000.0
+146,42.0,Female,PhD,Senior Data Scientist,16.0,150000.0
+152,43.0,Female,PhD,Senior Product Designer,18.0,140000.0
+158,51.0,Female,PhD,Director of Human Resources,23.0,185000.0
+167,46.0,Male,PhD,Senior Researcher,18.0,150000.0
+176,42.0,Female,PhD,Senior Marketing Manager,18.0,140000.0
+182,44.0,Female,PhD,Senior UX Designer,15.0,145000.0
+188,50.0,Female,PhD,Director of Sales and Marketing,22.0,180000.0
+197,45.0,Male,PhD,Senior Data Analyst,17.0,155000.0
+205,41.0,Female,PhD,Senior Marketing Director,17.0,160000.0
+211,45.0,Female,PhD,Senior Product Designer,15.0,150000.0
+217,50.0,Female,PhD,Director of Operations,22.0,180000.0
+226,46.0,Male,PhD,Senior Data Scientist,18.0,160000.0
+234,42.0,Female,PhD,Senior Marketing Manager,13.0,140000.0
+240,44.0,Female,PhD,Senior HR Manager,18.0,160000.0
+243,46.0,Male,PhD,Senior Data Analyst,19.0,150000.0
+252,45.0,Female,PhD,Senior Product Designer,15.0,150000.0
+258,50.0,Female,PhD,Director of Operations,22.0,180000.0
+262,46.0,Male,PhD,Senior Data Scientist,18.0,160000.0
+270,45.0,Male,PhD,Senior Data Engineer,16.0,150000.0
+276,46.0,Male,PhD,Senior Data Analyst,17.0,160000.0
+285,44.0,Female,PhD,Senior Product Designer,15.0,150000.0
+291,49.0,Male,PhD,Director of Operations,21.0,180000.0
+297,44.0,Male,PhD,Senior Data Scientist,16.0,160000.0
+303,45.0,Male,PhD,Senior Data Engineer,16.0,150000.0
+312,44.0,Female,PhD,Senior Product Designer,15.0,150000.0
+323,47.0,Male,PhD,Director of Engineering,20.0,180000.0
+326,43.0,Female,PhD,Senior Data Scientist,15.0,150000.0
+332,45.0,Female,PhD,Senior UX Designer,16.0,160000.0
+338,44.0,Female,PhD,Senior Business Analyst,15.0,150000.0
+344,44.0,Female,PhD,Senior Data Engineer,16.0,160000.0
+350,44.0,Female,PhD,Senior Data Scientist,16.0,160000.0
+356,45.0,Female,PhD,Senior UX Designer,16.0,160000.0
+362,44.0,Female,PhD,Senior Business Analyst,15.0,150000.0
+368,44.0,Female,PhD,Senior Data Engineer,16.0,160000.0
+374,44.0,Female,PhD,Senior Business Analyst,15.0,150000.0

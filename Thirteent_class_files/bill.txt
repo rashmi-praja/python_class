@@ -1,0 +1,2 @@
+Product Name:apple	Price:300.0	Quantity:4	Total:1200.0
+Product Name:mango	Price:200.0	Quantity:3	Total:600.0
